@@ -15,7 +15,7 @@ DataSets (loaded from)
 
 Data API (prepared and batched datasets)
 
->> Prefetching
+* Prefetching
    
 >> Parallelizing
    
