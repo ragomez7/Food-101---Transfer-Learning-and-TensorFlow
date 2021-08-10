@@ -16,12 +16,21 @@ DataSets (loaded from)
 Data API (prepared and batched datasets)
 
    Prefetching
+   
    Parallelizing
+   
 Callbacks
+
    Early Stopping
+   
    Adaptive Learning Rate
+   
    Checkpointing
+   
 Enabled Mixed Precision Training
+
    Leveraged Google Colab’s  free GPUs to drastically accelerate computation.
+   
 TensorBoard
+
    Created tensor board to visualize training histories of both models.
