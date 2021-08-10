@@ -12,7 +12,9 @@ Project Features
 
 We used TensorFlow’s:
 DataSets (loaded from)
+
 Data API (prepared and batched datasets)
+
    Prefetching
    Parallelizing
 Callbacks
