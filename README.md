@@ -5,20 +5,21 @@ Contrary to what we initially thought, the accuracy obtained by fine-tuning was 
 
 Results:
 Model 1: Fine-tuning. Accuracy: 70.8%
+
 Model 2: Without fine-tuning. Accuracy: 81.2%
 
 Project Features
 
 We used TensorFlow’s:
-	- DataSets (loaded from)
-	- Data API (prepared and batched datasets)
-		- Prefetching
-		- Parallelizing
-	- Callbacks
-		- Early Stopping
-		- Adaptive Learning Rate
-		- Checkpointing
-	- Enabled Mixed Precision Training
-		- Leveraged Google Colab’s  free GPUs to drastically accelerate computation.
-	-TensorBoard
-		- Created tensor board to visualize training histories of both models.
+DataSets (loaded from)
+Data API (prepared and batched datasets)
+   Prefetching
+   Parallelizing
+Callbacks
+   Early Stopping
+   Adaptive Learning Rate
+   Checkpointing
+Enabled Mixed Precision Training
+   Leveraged Google Colab’s  free GPUs to drastically accelerate computation.
+TensorBoard
+   Created tensor board to visualize training histories of both models.
