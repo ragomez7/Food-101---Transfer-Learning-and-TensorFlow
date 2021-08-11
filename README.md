@@ -4,9 +4,10 @@ We concluded with two EfficientNet models. For the first model, we began by feat
 Contrary to what we initially thought, the accuracy obtained by fine-tuning was lower than otherwise.
 
 Results:
-Model 1: Fine-tuning. Accuracy: 70.8%
 
-Model 2: Without fine-tuning. Accuracy: 81.2%
+>Model 1: Fine-tuning. Accuracy: 70.8%
+
+>Model 2: Without fine-tuning. Accuracy: 81.2%
 
 Project Features
 
