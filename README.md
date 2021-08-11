@@ -34,4 +34,4 @@ Enabled Mixed Precision Training
    
 TensorBoard
 
-   Created tensor board to visualize training histories of both models.
+   Created TensorBoard to visualize training histories of both models.
